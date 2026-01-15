@@ -6,13 +6,6 @@ Katarzyna Śledziewska, Weronika Łebkowska (University of Warsaw, Faculty of Ec
 
 The repository includes all scripts necessary to reproduce the construction of key variables and the econometric analysis. Due to size and licensing considerations, the final dataset is hosted separately on Zenodo.
 
-## Repository structure
-├── data_preparation/
-│   └── digital_distance_pca.ipnyb
-├── gravity_models/
-│   └── Digital_Dist.do
-├── README.md
-
 Python script used to:
 - clean and harmonize raw country-level indicators,
 - construct bilateral digital distance measures,
